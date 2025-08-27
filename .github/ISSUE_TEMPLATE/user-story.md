@@ -1,12 +1,3 @@
----
-name: user-story.md
-about: Creating user stories...
-title: user-story.md
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]
 **I need** [function]
 **So that** [benefit]
